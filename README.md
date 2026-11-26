@@ -1,16 +1,28 @@
-## Hi there 👋
+# Jackson Schneider
 
-<!--
-**JacksonSchneider30/JacksonSchneider30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am currently working in IT while pursuing a Cybersecurity Specialist degree at Mid-State Technical College. I enjoy working with technology, troubleshooting network and computer issues, and expanding my knowledge of networking and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Technical Skills
+
+- Cisco networking and network configuration
+- Routing, switching, VLANs, and OSPF
+- Palo Alto Networks firewall configuration
+- Network security and troubleshooting
+- Windows and Linux operating systems
+- Active Directory and domain administration
+- Computer hardware deployment
+- Wireshark and network traffic analysis
+- Microsoft 365 administration
+
+## Career Goals
+
+My goal is to become a Network Engineer. I plan to continue developing my skills in enterprise networking, network security, infrastructure management, and network automation while gaining more professional experience in the IT industry.
+
+## Currently Learning
+
+- Advanced networking
+- Cybersecurity and information security
+- Enterprise firewall administration
+- Network automation and scripting
